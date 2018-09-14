@@ -24,13 +24,12 @@ We are working on Chat and it's coming with **Web Sockets** integration which wi
 6. Looks beautiful with your existing theme
 7. Light weight and scalable
 8. Supports HMVC architecture
+<br />
 ![1.png](screenshots/feature/1.png)
 
-![2.png](screenshots/feature/2.png)
-
-![3.png](screenshots/feature/3.png)
-
 ![4.png](screenshots/feature/4.png)
+
+
 
 ## How to integrate into existing website
 
@@ -46,6 +45,7 @@ Just follow the below simple baby steps to integrate Chat into your existing web
 6. Jquery
 
 **Installation**
+</br></br>
 ![1.png](screenshots/install/1.png)
 </br>
 ![2.png](screenshots/install/2.png)
@@ -58,6 +58,7 @@ Just follow the below simple baby steps to integrate Chat into your existing web
 </br>
 ![6.png](screenshots/install/6.png)
 </br>
+</br></br></br>
 1. Create the "chatinstaller" folder and move it near your website's application folder. E.g 
     -> application 
     -> chatinstaller 
@@ -75,10 +76,10 @@ Now you can customize Chat fully according to your website from one place.
 After installation, go to 
     -> codeigniter_site/application/config/chat_config.php
 **After install site** 
-![1.png](screenshots/installed_feature/1.png)
+</br></br></br>
 </br>
 ![2.png](screenshots/installed_feature/2.png)
 </br>
 ![3.png](screenshots/installed_feature/3.png)
 </br>
-![4.png](screenshots/installed_feature/4.png)
+
