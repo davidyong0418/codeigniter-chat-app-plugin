@@ -1,5 +1,10 @@
 A Realtime chatting system that can be easily integrate into any Codeigniter website.
+<br /><br /><br />
 ![4.png](screenshots/feature/4.png)
+<br />
+<br />
+<br />
+<br />
 Now you can integrate Chat using installer. 
 
 1. Smiley Support
@@ -25,7 +30,7 @@ We are working on Chat and it's coming with **Web Sockets** integration which wi
 7. Light weight and scalable
 8. Supports HMVC architecture
 <br />
-![1.png](screenshots/feature/1.png)
+
 
 ![4.png](screenshots/feature/4.png)
 
